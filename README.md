@@ -5,7 +5,7 @@
 
 ## ထည့်သွင်းနည်း
 - ဒီ **Repository** ကို **Download** လုပ်လိုက်ပါ။
-- [ဒီလင့်](https://github.com/KhunHtetzNaing/macOS-PaOh-Keyboard/archive/main.zip) ကိုနှိပ်ပြီးတော့လည်းဒေါင်းနိုင်ပါတယ်။
+- [ဒီလင့်](https://github.com/KhunHtetzNaing/Windows-PaOh-Keyboard/archive/main.zip) ကိုနှိပ်ပြီးတော့လည်းဒေါင်းနိုင်ပါတယ်။
 - ဒေါင်းလို့ရလာတဲ့ **main.zip** ကိုဖွင့်ပြီး **Keyboard** folder ထဲက **setup.exe** ကို **Double click** နဲ့ **Run** လိုက်ပါ။
 - ပြီးရင်ကွန်ပျူတာကို **Restart** ချလိုက်ပါ။
 - ကွန်ပျူတာပြန်တက်လာရင် ပအိုဝ်းစာရိုက်လို့ရပါပြီ။
