@@ -1,21 +1,21 @@
-# Windows Pa'O Keyboard
+# Windows Pa'O Keyboard ⌨️
 
-![Pa'O Keyboard Layout](./layout.png)
+![Pa'O Keyboard Layout](./Layout.png)
 
 Windows စနစ်သုံးကွန်ပျူတာများအတွက် ပအိုဝ်ႏကီးဘုတ်ဖြစ်ပါသည်။
 ပြည်ထောင်စုလက်ကွက်ပေါ်မှာအခြေခံထားတဲ့အတွက် ပအိုဝ်း + မြန်မာ (၂) ဘာသာရေးသားနိုင်ပါသည်။
 
 [![Latest release](https://img.shields.io/github/v/release/KhunHtetzNaing/Windows-PaOh-Keyboard?label=Download&logo=github)](https://github.com/KhunHtetzNaing/Windows-PaOh-Keyboard/releases/download/1.0.0/PaO-Keyboard-Installer.zip)
 
-## ထည့်သွင်းနည်း
+## ထည့်သွင်းနည်း 🛠️
 
-- Keyboard Installer ကို Download ပြုလုပ်ပြီးဖွင့်ပါ။
+- Keyboard Installer ကို [Download](https://github.com/KhunHtetzNaing/Windows-PaOh-Keyboard/releases) ပြုလုပ်ပြီးဖွင့်ပါ။
 - setup.exe ကိုနှိပ်ပြီး Install ပြုလုပ်ပါ။
 > Windows protected your PC လို့ပေါ်လာရင် More Info ကိုနှိပ်ပြီး Install Anyway ကိုနှိပ်ပေးပါ။
 
 Win + Space ပြိုင်တူနှိပ်ပြီး လက်ကွက်အပြန်အလှန်ပြောင်းနိုင်ပါသည်။
 
-## စာရိုက်နည်း
+## စာရိုက်နည်း 👨‍💻
 
 ယူနီကုဒ်စာရိုက်နည်းအတိုင်း သဝေထိုး ကိုနောက်မှရိုက်ရပါမယ်။
 > သင်ဘုန်းကြီးစနစ်အတိုင်းရိုက်ချင်ရင် [Keymagic](https://keymagic.net/) သုံးနိုင်ပါတယ်။
@@ -36,7 +36,11 @@ Win + Space ပြိုင်တူနှိပ်ပြီး လက်ကွ�
 - သူဋ္ဌေး = သူ + ဋ + ္ + ဌ + ေ + း
 - မဏ္ဍပ် = မ + ဏ + ္ + ဍ + ပ်
 
-## အခြား OS အတွက်ပအိုဝ်းကီးဘုတ်များ
+## အခြား OS အတွက်ပအိုဝ်းကီးဘုတ်များ 🖥️
 
 - [Ubuntu](https://github.com/KhunHtetzNaing/Ubuntu-PaOh-Keyboard)
 - [macOS](https://github.com/KhunHtetzNaing/macOS-PaOh-Keyboard)
+
+## Credits & Thanks 🙏
+- [Khon Soe Zaw Thu](https://www.facebook.com/mrkhun.today)
+- [KeyMagic](https://github.com/thantthet/keymagic-3)
