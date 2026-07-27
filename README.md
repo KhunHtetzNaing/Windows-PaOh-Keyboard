@@ -11,7 +11,7 @@ Windows စနစ်သုံးကွန်ပျူတာများအတွ
 
 - Keyboard Installer ကို [Download](https://github.com/KhunHtetzNaing/Windows-PaOh-Keyboard/releases) ပြုလုပ်ပြီးဖွင့်ပါ။
 - setup.exe ကိုနှိပ်ပြီး Install ပြုလုပ်ပါ။
-> Windows protected your PC လို့ပေါ်လာရင် More Info ကိုနှိပ်ပြီး Install Anyway ကိုနှိပ်ပေးပါ။
+> Windows protected your PC လို့ပေါ်လာရင် More Info ကိုနှိပ်ပြီး Run anyway ကိုနှိပ်ပေးပါ။
 
 Win + Space ပြိုင်တူနှိပ်ပြီး လက်ကွက်အပြန်အလှန်ပြောင်းနိုင်ပါသည်။
 
