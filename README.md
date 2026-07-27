@@ -1,27 +1,42 @@
-![PaOh Keyboard Layout](Layout.png)
+# Windows Pa'O Keyboard
 
-**Windows** ကွန်ပျူတာတွေမှာပအိုဝ်းစာရေးနိုင်မယ့် ကီးဘုတ်ဖြစ်ပါတယ်။
-[Khon Soe Zaw Thu](https://www.facebook.com/mrkhun.today) က ဖန်တီးပေးထားတာပါ။
+![Pa'O Keyboard Layout](./layout.png)
 
-## ထည့်သွင်းနည်း
-- ဒီ **Repository** ကို **Download** လုပ်လိုက်ပါ။
-- [ဒီလင့်](https://github.com/KhunHtetzNaing/Windows-PaOh-Keyboard/archive/main.zip) ကိုနှိပ်ပြီးတော့လည်းဒေါင်းနိုင်ပါတယ်။
-- ဒေါင်းလို့ရလာတဲ့ **main.zip** ကိုဖွင့်ပြီး **Keyboard** folder ထဲက **setup.exe** ကို **Double click** နဲ့ **Run** လိုက်ပါ။
-- ပြီးရင်ကွန်ပျူတာကို **Restart** ချလိုက်ပါ။
-- ကွန်ပျူတာပြန်တက်လာရင် ပအိုဝ်းစာရိုက်လို့ရပါပြီ။
-- **Ctrl+Shift** ဒါမှမဟုတ် **Ctrl+Space** ကိုနှိပ်ပြီးတော့ ပအိုဝ်ႏ+အင်္ဂလိပ်အပြန်အလှန်ပြောင်းလို့ရပါတယ်။
+Windows စနစ်သုံးကွန်ပျူတာများအတွက် ပအိုဝ်ႏကီးဘုတ်ဖြစ်ပါသည်။
+ပြည်ထောင်စုလက်ကွက်ပေါ်မှာအခြေခံထားတဲ့အတွက် ပအိုဝ်း + မြန်မာ (၂) ဘာသာရေးသားနိုင်ပါသည်။
 
-# စာရိုက်နည်း
-ယူနီကုဒ်စာရိုက်နည်းအတိုင်း သဝေထိုး ကိုနောက်မှရိုက်ရပါတယ်။
+[![Latest release](https://img.shields.io/github/v/release/KhunHtetzNaing/Windows-PaOh-Keyboard?label=Download&logo=github)](https://github.com/KhunHtetzNaing/Windows-PaOh-Keyboard/releases/download/1.0.0/PaO-Keyboard-Installer.zip)
 
-> ဥပမာ -
+## ထည့်သွင်းနည်း
 
--   ကျောင်း = က + ျ + ေ + ာ + င + ်​ + း
--   ကမ္ဘာ = က + မ + ္ + ဘ + ာ
-ကျန်တာကတော့ သင်ဘုန်းကြီးစာရေးနည်းအတိုင်းရေးရပါတယ်။
-သဝေထိုးကိုလည်း သင်ဘုန်းကြီးစနစ်အတိုင်းရိုက်ချင်ရင်တော့  [Keymagic](https://keymagic.net/)  ကိုသုံးနိုင်ပါတယ်။
+- Keyboard Installer ကို Download ပြုလုပ်ပြီးဖွင့်ပါ။
+- setup.exe ကိုနှိပ်ပြီး Install ပြုလုပ်ပါ။
+> Windows protected your PC လို့ပေါ်လာရင် More Info ကိုနှိပ်ပြီး Install Anyway ကိုနှိပ်ပေးပါ။
 
-# အခြား OS အတွက်ပအိုဝ်းကီးဘုတ်များ
+Win + Space ပြိုင်တူနှိပ်ပြီး လက်ကွက်အပြန်အလှန်ပြောင်းနိုင်ပါသည်။
 
- - [Ubuntu](https://github.com/KhunHtetzNaing/Ubuntu-PaOh-Keyboard)
- - [macOS](https://github.com/KhunHtetzNaing/macOS-PaOh-Keyboard)
+## စာရိုက်နည်း
+
+ယူနီကုဒ်စာရိုက်နည်းအတိုင်း သဝေထိုး ကိုနောက်မှရိုက်ရပါမယ်။
+> သင်ဘုန်းကြီးစနစ်အတိုင်းရိုက်ချင်ရင် [Keymagic](https://keymagic.net/) သုံးနိုင်ပါတယ်။
+
+ကျန်တာအားလုံး သင်ဘုန်းကြီးစာရေးနည်းအတိုင်းရေးရပါတယ် -
+
+- နီခွိုꩻပအိုဝ်ႏ = န + ီ + ခ + ွ + ိ + ု + ꩻ + ပ + အ + ိ + ု + ဝ + ် + ႏ
+- ညွှန်ကြားရေးမှူး = ည + ွ + ှ + န + ် + က + ြ + ာ + း + ရ + ေ + း + မ + ှ + ူ + း
+- အကြောင်းပြချက် = အ + က + ြ + ေ + ာ + င + ် + း + ပ + ြ + ခ + ျ + က + ်
+- မြန်မာ = မ + ြ + န + ် + မ + ာ
+
+### ပါဠ်ဆင့်ရိုက်နည်း
+
+- သင်္ကြန် = သ + င + ် + ္ + က + ြ + န + ်
+- ကမ္ဘာ = က + မ + ္ + ဘ + ာ
+- အာယုဝဍ္ဎန = အာ + ယ + ု + ဝ + ဍ + ္ + ဎ + န
+- ခြင်္သေ့ = ခ + ြ + င + ် + ္ + သ + ေ + ့
+- သူဋ္ဌေး = သူ + ဋ + ္ + ဌ + ေ + း
+- မဏ္ဍပ် = မ + ဏ + ္ + ဍ + ပ်
+
+## အခြား OS အတွက်ပအိုဝ်းကီးဘုတ်များ
+
+- [Ubuntu](https://github.com/KhunHtetzNaing/Ubuntu-PaOh-Keyboard)
+- [macOS](https://github.com/KhunHtetzNaing/macOS-PaOh-Keyboard)
