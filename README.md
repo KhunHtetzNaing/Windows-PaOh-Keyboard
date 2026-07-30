@@ -1,6 +1,6 @@
 # Windows Pa'O Keyboard ⌨️
 
-![Pa'O Keyboard Layout](./Layout.png)
+![Pa'O Keyboard Layout](./layout.png)
 
 Windows စနစ်သုံးကွန်ပျူတာများအတွက် ပအိုဝ်ႏကီးဘုတ်ဖြစ်ပါသည်။
 ပြည်ထောင်စုလက်ကွက်ပေါ်မှာအခြေခံထားတဲ့အတွက် ပအိုဝ်း + မြန်မာ (၂) ဘာသာရေးသားနိုင်ပါသည်။
